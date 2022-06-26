@@ -1,0 +1,4 @@
+name: SleepInEnd
+version: '${project.version}'
+main: ezcoins.sleepinend.SleepInEnd
+api-version: 1.19
